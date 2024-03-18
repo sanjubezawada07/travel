@@ -1,0 +1,75 @@
+.cont{
+  width: 1400px;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 1400px;
+}
+  
+.page {
+    width: 900px;
+    height: 300px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 280px;
+    margin-top: 80px;
+  }
+  
+.video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto; 
+    z-index: -1;
+
+}
+.input{
+  margin-top: 50px;
+  width: 600px;
+  height: 50px;
+  border-radius: 10px;
+}
+.btn{
+  margin-top: 50px;
+  height: 50px;
+  width: 150px;
+  font-size: 24px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(94, 163, 99);
+}
+.hh{
+  height: 10px;
+}
+.quote{
+  color:#222;
+  font-size:2rem;
+  cursor:pointer;
+}
+.grid{
+  display: flex;
+  margin-top: 40px;
+  margin-left: 100px;
+  flex-wrap: wrap;
+}
+.img{
+  width: 300px;
+  height: 200px;
+  border-radius: 20px;
+}
+.ele{
+  margin-top: 60px;
+  margin-left: 25px;
+}
+.travel{
+  margin-top: 220px;
+  margin-left: 120px;
+  color:#222;
+  font-size:3rem;
+  cursor:pointer;
+}

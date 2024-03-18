@@ -1,0 +1,29 @@
+.chandiv{
+    display: flex;
+}
+.chandiv1{
+    margin-left: 10%;
+}
+.chandiv2{
+    margin-left: 1%;
+}
+.chanline{
+    margin-left: 5%;
+}
+.chanheader{
+    margin-left: 1%;
+}
+.chanpara{
+    margin-left: 1%;
+    color: rgb(85, 76, 76);
+}
+.chancenter{
+    font-size: 200%;
+}
+.chaninsight{
+    display: flex;
+}
+.chansep{
+    margin-left: 1%;
+    width: 55%;
+}

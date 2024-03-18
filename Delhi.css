@@ -1,0 +1,29 @@
+.delheader{
+    margin-left: 1%;
+}
+.delpara{
+    margin-left: 1%;
+    color: rgb(85, 76, 76);
+}
+.deldiv{
+    display: flex;
+}
+.deldiv1{
+    margin-left: 10%;
+}
+.deldiv2{
+    margin-left: 1%;
+}
+.chatcenter{
+    font-size: 200%;
+}
+.delinsight{
+    display: flex;
+}
+.delsep{
+    margin-left: 1%;
+    width: 55%;
+}
+.delline{
+    margin-left: 5%;
+}
